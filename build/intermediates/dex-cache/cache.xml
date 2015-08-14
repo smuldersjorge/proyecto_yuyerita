@@ -1,0 +1,187 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\smulders\Proyectos_Android\proyecto_yuyerita\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-plus\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="272bc5d7063f24bc3a33ea1d318cde8f31f5ec4c">
+        <dex dex="C:\Users\smulders\Proyectos_Android\proyecto_yuyerita\app\build\intermediates\pre-dexed\debug\classes-b7ae3e93f56b4c0063a182ee66d1fa4757887af7.jar" />
+    </item>
+    <item
+        jar="C:\Users\smulders\Proyectos_Android\proyecto_yuyerita\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-panorama\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="ba207be21987c11b37d9f8faa08ed6e722569f30">
+        <dex dex="C:\Users\smulders\Proyectos_Android\proyecto_yuyerita\app\build\intermediates\pre-dexed\debug\classes-9e88616a04212029aaba24fb47b7bccf2d9ee475.jar" />
+    </item>
+    <item
+        jar="C:\Users\smulders\Proyectos_Android\proyecto_yuyerita\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="d84409890828e07d344a3b9b1da545dba9897b51">
+        <dex dex="C:\Users\smulders\Proyectos_Android\proyecto_yuyerita\app\build\intermediates\pre-dexed\debug\classes-c495866a6e7a7ae155b11fa6c2070c47100f6005.jar" />
+    </item>
+    <item
+        jar="C:\Users\smulders\Proyectos_Android\proyecto_yuyerita\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-identity\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="d405025c600055237c171a0bbabaa49d69696573">
+        <dex dex="C:\Users\smulders\Proyectos_Android\proyecto_yuyerita\app\build\intermediates\pre-dexed\debug\classes-ebc4ec3818bd77e2515d5251de29612a3470122e.jar" />
+    </item>
+    <item
+        jar="C:\Users\smulders\Proyectos_Android\proyecto_yuyerita\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-wearable\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="69dd177337ead693c408c8dddc9546bb6f1244fa">
+        <dex dex="C:\Users\smulders\Proyectos_Android\proyecto_yuyerita\app\build\intermediates\pre-dexed\debug\classes-ea9601d1a645d4d15a1a8398b52bdde0a8328628.jar" />
+    </item>
+    <item
+        jar="C:\Users\smulders\Proyectos_Android\proyecto_yuyerita\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-analytics\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="e7b35244f50663b3f8d150714bca9ecd7a290da1">
+        <dex dex="C:\Users\smulders\Proyectos_Android\proyecto_yuyerita\app\build\intermediates\pre-dexed\debug\classes-3ce35daa5529d82f64098ffb2e7e1030fd0fc9b9.jar" />
+    </item>
+    <item
+        jar="C:\Users\smulders\Proyectos_Android\proyecto_yuyerita\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appinvite\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="63ec6e9f4fe5482a7447d0f3091b8e543a02554c">
+        <dex dex="C:\Users\smulders\Proyectos_Android\proyecto_yuyerita\app\build\intermediates\pre-dexed\debug\classes-d81dcb084a9f9dc03cd7e34e3a65828c3a13e49f.jar" />
+    </item>
+    <item
+        jar="C:\Users\smulders\Proyectos_Android\proyecto_yuyerita\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-games\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="02bac2dc792d78241077861566f2c82da955e7fa">
+        <dex dex="C:\Users\smulders\Proyectos_Android\proyecto_yuyerita\app\build\intermediates\pre-dexed\debug\classes-5873577b9011b069d2decec35656f69f171efc40.jar" />
+    </item>
+    <item
+        jar="C:\Users\smulders\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\22.0.0\support-annotations-22.0.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="685d0b2c590447e85284ed84712cb363ba04eff8">
+        <dex dex="C:\Users\smulders\Proyectos_Android\proyecto_yuyerita\app\build\intermediates\pre-dexed\debug\support-annotations-22.0.0-538b32211e2d5a0f88223da5246aa4a4674ee1d8.jar" />
+    </item>
+    <item
+        jar="C:\Users\smulders\Proyectos_Android\proyecto_yuyerita\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appindexing\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="f02127a85abd52a2cd526d4c2409f21969f80ee8">
+        <dex dex="C:\Users\smulders\Proyectos_Android\proyecto_yuyerita\app\build\intermediates\pre-dexed\debug\classes-57e7c2ccc207659238158f24f151ecf7d77ea4fd.jar" />
+    </item>
+    <item
+        jar="C:\Users\smulders\Proyectos_Android\proyecto_yuyerita\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-cast\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="8e3a972f28b8bae817e382257ba177a31bcadbbc">
+        <dex dex="C:\Users\smulders\Proyectos_Android\proyecto_yuyerita\app\build\intermediates\pre-dexed\debug\classes-167307d88ac613ae397aefe5ff4a41abde0042c6.jar" />
+    </item>
+    <item
+        jar="C:\Users\smulders\Proyectos_Android\proyecto_yuyerita\app\build\intermediates\exploded-aar\com.android.support\mediarouter-v7\22.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="a1372c17fccacca753d3951d3ad820571cbce075">
+        <dex dex="C:\Users\smulders\Proyectos_Android\proyecto_yuyerita\app\build\intermediates\pre-dexed\debug\classes-bca22b15e1814d774897b581a76074d84406acf3.jar" />
+    </item>
+    <item
+        jar="C:\Users\smulders\Proyectos_Android\proyecto_yuyerita\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-wallet\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="6836d188602ec5382d1967c58b00960eb8ff8773">
+        <dex dex="C:\Users\smulders\Proyectos_Android\proyecto_yuyerita\app\build\intermediates\pre-dexed\debug\classes-224b1ecef1aef6ccf3fc0a0fcbdb79d6cd5cbe70.jar" />
+    </item>
+    <item
+        jar="C:\Users\smulders\Proyectos_Android\proyecto_yuyerita\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="a78183f30e769a98ab4820794f597763088d3065">
+        <dex dex="C:\Users\smulders\Proyectos_Android\proyecto_yuyerita\app\build\intermediates\pre-dexed\debug\classes-727b0c951291255e0e0f04ffa96bb7c38b52eaa0.jar" />
+    </item>
+    <item
+        jar="C:\Users\smulders\Proyectos_Android\proyecto_yuyerita\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-drive\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="f44d03c138cb6488fdbaa65e3a7e5878861a56d8">
+        <dex dex="C:\Users\smulders\Proyectos_Android\proyecto_yuyerita\app\build\intermediates\pre-dexed\debug\classes-d8c2cbdd7d8752f24b969ae18f2e1fe3872c7d22.jar" />
+    </item>
+    <item
+        jar="C:\Users\smulders\Proyectos_Android\proyecto_yuyerita\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="4e86306289ace4aa0cfec44a05ed2b410d36989d">
+        <dex dex="C:\Users\smulders\Proyectos_Android\proyecto_yuyerita\app\build\intermediates\pre-dexed\debug\classes-9ba53ae6d617bbadcd2fefc5ed6560318ce75bc0.jar" />
+    </item>
+    <item
+        jar="C:\Users\smulders\Proyectos_Android\proyecto_yuyerita\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-location\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="1e98ef3f124bb7a11f8575f9ff5dfea330b61b6f">
+        <dex dex="C:\Users\smulders\Proyectos_Android\proyecto_yuyerita\app\build\intermediates\pre-dexed\debug\classes-fc46f4192f7943770370f939c9ea49394c1e00c1.jar" />
+    </item>
+    <item
+        jar="C:\Users\smulders\Proyectos_Android\proyecto_yuyerita\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-gcm\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="8d736fefa22d896e84a268354b3ed48a42663150">
+        <dex dex="C:\Users\smulders\Proyectos_Android\proyecto_yuyerita\app\build\intermediates\pre-dexed\debug\classes-0b2b4c18ff4e06c4a12e48d65497f14510ebfcf5.jar" />
+    </item>
+    <item
+        jar="C:\Users\smulders\Proyectos_Android\proyecto_yuyerita\app\build\intermediates\exploded-aar\com.android.support\mediarouter-v7\22.0.0\jars\libs\internal_impl-22.0.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="ba3df4eb0a630d7de294f0e48d3f9267d279b784">
+        <dex dex="C:\Users\smulders\Proyectos_Android\proyecto_yuyerita\app\build\intermediates\pre-dexed\debug\internal_impl-22.0.0-29b209ce0d3b18827b59adc3cd4c7a84bf255624.jar" />
+    </item>
+    <item
+        jar="C:\Users\smulders\Proyectos_Android\proyecto_yuyerita\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appstate\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="68c140702c7242d914655bcb3164d9e8c45b84cb">
+        <dex dex="C:\Users\smulders\Proyectos_Android\proyecto_yuyerita\app\build\intermediates\pre-dexed\debug\classes-c894b88cfee05ae9683c14cbcfe5d6e0f3913155.jar" />
+    </item>
+    <item
+        jar="C:\Users\smulders\Proyectos_Android\proyecto_yuyerita\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="06a42becc33232ec0ee125161da68c1829c9f8fd">
+        <dex dex="C:\Users\smulders\Proyectos_Android\proyecto_yuyerita\app\build\intermediates\pre-dexed\debug\classes-a9e952b722b4742cee034e2d32882fbab222fd7a.jar" />
+    </item>
+    <item
+        jar="C:\Users\smulders\Proyectos_Android\proyecto_yuyerita\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-fitness\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="a172852a35ff919e85b9b7f14bbc15c5bee25520">
+        <dex dex="C:\Users\smulders\Proyectos_Android\proyecto_yuyerita\app\build\intermediates\pre-dexed\debug\classes-af732bcb898b4d22d9c8a74a60e6834d1fa67d06.jar" />
+    </item>
+    <item
+        jar="C:\Users\smulders\Proyectos_Android\proyecto_yuyerita\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.0.0\jars\libs\internal_impl-22.0.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="b5b92f469d515a13d778900f6d50c03d12f35504">
+        <dex dex="C:\Users\smulders\Proyectos_Android\proyecto_yuyerita\app\build\intermediates\pre-dexed\debug\internal_impl-22.0.0-aae3ac59a29d75dcd9d4d29b2049f1e4851d0be8.jar" />
+    </item>
+    <item
+        jar="C:\Users\smulders\Proyectos_Android\proyecto_yuyerita\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-safetynet\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="1a6411087ab88ce5542f593e63a2752b6b0d6f1a">
+        <dex dex="C:\Users\smulders\Proyectos_Android\proyecto_yuyerita\app\build\intermediates\pre-dexed\debug\classes-0ca5048b87549c9b41a2c4ced584697d7d30c9a0.jar" />
+    </item>
+    <item
+        jar="C:\Users\smulders\Proyectos_Android\proyecto_yuyerita\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="29ebc7e04d877062317c8cc0e68b20f0c1fcda66">
+        <dex dex="C:\Users\smulders\Proyectos_Android\proyecto_yuyerita\app\build\intermediates\pre-dexed\debug\classes-01cba3c186b433a18137bfa3b162c21e83795daa.jar" />
+    </item>
+    <item
+        jar="C:\Users\smulders\Proyectos_Android\proyecto_yuyerita\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-nearby\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="6440e5e5cfe368f9bff3c537fb8988048069cb33">
+        <dex dex="C:\Users\smulders\Proyectos_Android\proyecto_yuyerita\app\build\intermediates\pre-dexed\debug\classes-acb0babf2b47a856f029ffe65865d324d999adc7.jar" />
+    </item>
+
+</items>

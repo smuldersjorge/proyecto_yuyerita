@@ -1,0 +1,73 @@
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="net.smulders.tesis.yuyeritaandroid.MainActivity"
+    android:id="@+id/scroller"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:fillViewport="true"
+    android:background="@drawable/bck_yuyera_blurred"
+    android:paddingLeft="10dp"
+    android:paddingTop="10dp"
+    android:paddingRight="10dp"
+    android:paddingBottom="10dp">
+    <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="250dp"
+            android:id="@+id/imageView2"
+            android:src="@drawable/ic_mortero2"
+            android:paddingTop="50dp"
+            android:layout_marginTop="40dp" />
+        <View
+            android:layout_width="fill_parent"
+            android:layout_height="1dip"
+            android:layout_marginLeft="6dip"
+            android:layout_marginRight="6dip"
+            android:layout_marginTop="6dip"
+            android:layout_marginBottom="12dip" />
+
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            android:text="Hierbas Medicinales"
+            android:id="@+id/button"
+            style="?android:borderlessButtonStyle"
+            android:textColor="#ffffffff"
+            android:background="@android:drawable/screen_background_light_transparent"
+            android:focusable="false"
+            android:textSize="20dp"
+            android:typeface="normal"
+            android:textStyle="bold|normal" />
+
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            android:text="Indicaciones/Dolencias"
+            android:id="@+id/button2"
+            style="?android:borderlessButtonStyle"
+            android:textColor="#ffffffff"
+            android:textSize="20dp"
+            android:typeface="normal"
+            android:textStyle="bold|normal" />
+
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            android:text="Puestos de Venta"
+            android:id="@+id/button3"
+            style="?android:borderlessButtonStyle"
+            android:textColor="#ffffffff"
+            android:background="@android:drawable/screen_background_light_transparent"
+            android:textSize="20dp"
+            android:typeface="normal"
+            android:textStyle="bold|normal" />
+
+    </LinearLayout>
+</ScrollView>

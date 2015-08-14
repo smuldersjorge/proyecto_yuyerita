@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Yuyerita</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_herbs">Herbs Activity</string>
+    <string name="title_activity_herb">HerbActivity</string>
+    <string name="title_activity_indications">IndicationsActivity</string>
+    <string name="title_activity_indication">IndicationActivity</string>
+    <string name="title_activity_places">PlacesActivity</string>
+    <string name="title_activity_place">PlaceActivity</string>
+</resources>
